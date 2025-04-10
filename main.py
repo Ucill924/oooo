@@ -1,7 +1,7 @@
 _A='https://airdrop.firachain.com/'
 import requests,time,random
 from itertools import cycle
-API_KEY='c4fc4f6195d0fae6db07f5389b1e91d9'
+API_KEY='' ###2chpaca_key
 URL='https://airdrop.firachain.com/register.php'
 SITEKEY='6LeuQAorAAAAAF3vZY-BS4WSnl_5lIXFFhw9AUtV'
 PAGE_URL=_A
